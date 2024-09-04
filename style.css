@@ -16,12 +16,12 @@ document, body {
     height: 1em;
     top: 0;
     left: 0;
-    background-image: url("wood.PNG");
+    background-image: url("wood.png");
     color:rgb(57, 29, 9);
 }
 
 #redeem-button {
-    background-image: url("wood2.PNG");
+    background-image: url("wood2.png");
     border: 0;
     font-size: 1em;
     font-family: "Comic Neue", cursive;
