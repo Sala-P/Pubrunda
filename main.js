@@ -1,4 +1,3 @@
-// cba
 let quests = `
 CATEGORY: School Essentials (packlista)
 Nollbricka: 30
@@ -13,6 +12,7 @@ CATEGORY: Preschool Originals (förfest)
 Häfv en öl: 20
 Klara viskeleken: 20
 Bäska droppar: 30
+Blanda drink: 30
 
 CATEGORY: School Originals (på campus)
 Study session på puben: 50
@@ -21,11 +21,13 @@ Spela king i kön: 50
 Avverka en hög post-it-lappar: 40
 Kasta pappersflygplan längst: 30
 Slåss mot nazis: 100
+Pissa i kors: 40
+Visa barndomskörkort för vakt: 50
 
 CATEGORY: Recess activities (spel)
 Vinn på hänga gubbe: 30
 Vinn på coup: 30
-Vinn en pingis: 30
+Vinn på pingis: 30
 Vinn på leif: 20
 Vinn på bluff: 20
 Få över 20p på dryckleif: 30
@@ -44,6 +46,7 @@ CATEGORY: Talent show (utmaningar)
 Gå par: 100
 Gå matpar: 150
 Gå toalettpar: 100
+Maxa karaoken: 60
 `
 ;
 
