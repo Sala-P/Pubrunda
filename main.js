@@ -7,6 +7,7 @@ Matsäck (ölsäck, höhö): 20
 Plunta: 15
 Post-it-lappar: 15
 Barndoms-körkort (ex. symaskin): 25
+skolpojk-utklädnad: 20
 
 CATEGORY: Preschool Originals (förfest)
 Häfv en öl: 20
@@ -14,6 +15,7 @@ Klara viskeleken: 20
 Bäska droppar: 30
 Blanda drink: 30
 Öppna vinflaska utan vinöppnare: 30
+
 
 CATEGORY: School Originals (på campus)
 Study session på puben: 50
