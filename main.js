@@ -13,6 +13,7 @@ Häfv en öl: 20
 Klara viskeleken: 20
 Bäska droppar: 30
 Blanda drink: 30
+Öppna vinflaska utan vinöppnare: 30
 
 CATEGORY: School Originals (på campus)
 Study session på puben: 50
@@ -23,6 +24,7 @@ Kasta pappersflygplan längst: 30
 Slåss mot nazis: 100
 Pissa i kors: 40
 Visa barndomskörkort för vakt: 50
+Gå i phadder/nollan-tröja från 2021 eller tidigare: 40
 
 CATEGORY: Recess activities (spel)
 Vinn på hänga gubbe: 30
